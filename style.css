@@ -451,10 +451,13 @@ header {
     flex-direction: column;
   }
   .news-letter .box{
-    width: 299px;
+    width: 306px;
   }
   .form-container{
     padding-top: 2rem;
+  }
+  .social{
+    margin-top: 1.2rem;
   }
 }
 @media (max-width:350px){
